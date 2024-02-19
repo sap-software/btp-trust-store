@@ -13,11 +13,11 @@ All Root CAs are approved by SAP.
 
 ### Typical use cases:
 
-1. Your client **SHALL** be able to connect with BTP services.
+1. Your client connects with BTP services.
 
-2. You run a custom domain with mutual TLS that **SHALL** allow connects from BTP clients.
+2. You run a custom domain with mutual TLS that allows connections from BTP clients.
 
-3. You run a custom domain with mutual TLS that **SHALL** allow connects from non-BTP clients, which got a client certificate from a BTP certificate service.
+3. You run a custom domain with mutual TLS that allows connections from non-BTP clients, which got a client certificate from a BTP certificate service.
 
 
 ## The `OPTIONAL` BTP Trust Store
@@ -28,9 +28,9 @@ All `REQUIRED` Root CAs are contained.
 
 ### Typical use cases:
 
-1. Your client shall be able to connect with BTP and non-BTP services, and the assumption is that the target server certificate was issued by one of these PKIs.
+1. Your client connects with BTP and non-BTP services, and the assumption is that the target server certificate was issued by one of these PKIs.
 
-2. You run a custom domain with mutual TLS that shall allow connects from BTP and non-BTP clients, and the assumption is that the client certificate was issued by one of these PKIs.
+2. You run a custom domain with mutual TLS that allows connections from BTP and non-BTP clients, and the assumption is that the client certificate was issued by one of these PKIs.
 
 
 ## Version of the BTP Trust Store
