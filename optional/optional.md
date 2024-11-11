@@ -1,5 +1,6 @@
 Subject Name|SHA256 Fingerprint
 ------------|------------------
+C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46 |4F:A3:12:6D:8D:3A:11:D1:C4:85:5A:4F:80:7C:BA:D6:CF:91:9D:3A:5A:88:B0:3B:EA:2C:63:72:D9:3C:40:C9
 C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA |EB:D4:10:40:E4:BB:3E:C7:42:C9:E3:81:D3:1E:F2:A4:1A:48:B6:68:5C:96:E7:CE:F3:C1:DF:6C:D4:33:1C:99
 C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 1 G3 |8A:86:6F:D1:B2:76:B5:7E:57:8E:92:1C:65:82:8A:2B:ED:58:E9:F2:F2:88:05:41:34:B7:F1:F4:BF:C9:CC:74
 C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 2 G3 |8F:E4:FB:0A:F9:3A:4D:0D:67:DB:0B:EB:B2:3E:37:C7:1B:F3:25:DC:BC:DD:24:0E:A0:4D:AF:58:B4:7E:18:40
@@ -18,6 +19,7 @@ C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO ECC Certi
 C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Certification Authority |52:F0:E1:C4:E5:8E:C6:29:29:1B:60:31:7F:07:46:71:B8:5D:7E:A8:0D:5B:07:27:34:63:53:4B:32:B4:02:34
 C=IE, O=Baltimore, OU=CyberTrust, CN=Baltimore CyberTrust Root |16:AF:57:A9:F6:76:B0:AB:12:60:95:AA:5E:BA:DE:F2:2A:B3:11:19:D6:44:AC:95:CD:4B:93:DB:F3:F2:6A:EB
 C=JP, O=SECOM Trust Systems CO.,LTD., OU=Security Communication RootCA2 |51:3B:2C:EC:B8:10:D4:CD:E5:DD:85:39:1A:DF:C6:C2:DD:60:D8:7B:B7:36:D2:B5:21:48:4A:A4:7A:0E:BE:F6
+C=PL, O=Asseco Data Systems S.A., OU=Certum Certification Authority, CN=Certum Trusted Root CA |FE:76:96:57:38:55:77:3E:37:A9:5E:7A:D4:D9:CC:96:C3:01:57:C1:5D:31:76:5B:A9:B1:57:04:E1:AE:78:FD
 C=PL, O=Unizeto Sp. z o.o., CN=Certum CA |D8:E0:FE:BC:1D:B2:E3:8D:00:94:0F:37:D2:7D:41:34:4D:99:3E:73:4B:99:D5:65:6D:97:78:D4:D8:14:36:24
 C=RO, O=certSIGN, OU=certSIGN ROOT CA |EA:A9:62:C4:FA:4A:6B:AF:EB:E4:15:19:6D:35:1C:CD:88:8D:4F:53:F3:FA:8A:E6:D7:C4:66:A9:4E:60:42:BB
 C=SI, O=Republika Slovenija, organizationIdentifier=VATSI-17659957, CN=SI-TRUST Root |FA:D5:40:81:1A:FA:E0:DC:76:7C:DF:65:72:A0:88:FA:3C:E8:49:3D:D8:2B:3B:86:9A:67:D1:0A:AB:4E:81:24
@@ -46,6 +48,8 @@ C=US, O=Google Trust Services LLC, CN=GTS Root R3 |34:D8:A7:3E:E2:08:D9:BC:DB:0D
 C=US, O=Google Trust Services LLC, CN=GTS Root R4 |34:9D:FA:40:58:C5:E2:63:12:3B:39:8A:E7:95:57:3C:4E:13:13:C8:3F:E6:8F:93:55:6C:D5:E8:03:1B:3C:7D
 C=US, O=Internet Security Research Group, CN=ISRG Root X1 |96:BC:EC:06:26:49:76:F3:74:60:77:9A:CF:28:C5:A7:CF:E8:A3:C0:AA:E1:1A:8F:FC:EE:05:C0:BD:DF:08:C6
 C=US, O=Internet Security Research Group, CN=ISRG Root X2 |69:72:9B:8E:15:A8:6E:FC:17:7A:57:AF:B7:17:1D:FC:64:AD:D2:8C:2F:CA:8C:F1:50:7E:34:45:3C:CB:14:70
+C=US, O=Microsoft Corporation, CN=Microsoft ECC Root Certificate Authority 2017 |35:8D:F3:9D:76:4A:F9:E1:B7:66:E9:C9:72:DF:35:2E:E1:5C:FA:C2:27:AF:6A:D1:D7:0E:8E:4A:6E:DC:BA:02
+C=US, O=Microsoft Corporation, CN=Microsoft RSA Root Certificate Authority 2017 |C7:41:F7:0F:4B:2A:8D:88:BF:2E:71:C1:41:22:EF:53:EF:10:EB:A0:CF:A5:E6:4C:FA:20:F4:18:85:30:73:E0
 C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority |14:65:FA:20:53:97:B8:76:FA:A6:F0:A9:95:8E:55:90:E4:0F:CC:7F:AA:4F:B7:C2:C8:67:75:21:FB:5F:B6:58
 C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority |C3:84:6B:F2:4B:9E:93:CA:64:27:4C:0E:C6:7C:1E:CC:5E:02:4F:FC:AC:D2:D7:40:19:35:0E:81:FE:54:6A:E4
 C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2 |45:14:0B:32:47:EB:9C:C8:C5:B4:F0:D7:B5:30:91:F7:32:92:08:9E:6E:5A:63:E2:74:9D:D3:AC:A9:19:8E:DA
