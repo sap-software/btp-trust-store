@@ -14,6 +14,7 @@ C=DE, O=D-Trust GmbH, CN=D-TRUST Root Class 3 CA 2 2009 |49:E7:A4:42:AC:F0:EA:62
 C=DE, O=SAP IoT Trust Community II, CN=SAP Internet of Things CA |D0:C0:1D:1B:35:BA:4E:C2:44:61:B9:B8:CF:02:89:2F:04:00:88:49:AF:F4:2E:A5:50:67:BA:57:E1:E5:17:FF
 C=DE, O=T-Systems Enterprise Services GmbH, OU=T-Systems Trust Center, CN=T-TeleSec GlobalRoot Class 2 |91:E2:F5:78:8D:58:10:EB:A7:BA:58:73:7D:E1:54:8A:8E:CA:CD:01:45:98:BC:0B:14:3E:04:1B:17:05:25:52
 C=FR, O=Dhimyotis, CN=Certigna |E3:B6:A2:DB:2E:D7:CE:48:84:2F:7A:C5:32:41:C7:B7:1D:54:14:4B:FB:40:C1:1F:3F:1D:0B:42:F5:EE:A1:2D
+C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46 |7B:B6:47:A6:2A:EE:AC:88:BF:25:7A:A5:22:D0:1F:FE:A3:95:E0:AB:45:C7:3F:93:F6:56:54:EC:38:F2:5A:06
 C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO Certification Authority |1A:0D:20:44:5D:E5:BA:18:62:D1:9E:F8:80:85:8C:BC:E5:01:02:B3:6E:8F:0A:04:0C:3C:69:E7:45:22:FE:6E
 C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO ECC Certification Authority |17:93:92:7A:06:14:54:97:89:AD:CE:2F:8F:34:F7:F0:B6:6D:0F:3A:E3:A3:B8:4D:21:EC:15:DB:BA:4F:AD:C7
 C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Certification Authority |52:F0:E1:C4:E5:8E:C6:29:29:1B:60:31:7F:07:46:71:B8:5D:7E:A8:0D:5B:07:27:34:63:53:4B:32:B4:02:34
