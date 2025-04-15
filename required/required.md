@@ -2,7 +2,6 @@ Subject Name|SHA256 Fingerprint
 ------------|------------------
 C=DE, L=Walldorf, O=SAP AG, CN=SAP Global Root CA |56:53:9C:1E:7B:5E:D5:58:2B:79:68:00:61:CB:F2:14:86:A8:50:22:6B:2F:CF:30:B5:B1:52:A7:20:E1:34:DE
 C=DE, L=Walldorf, O=SAP SE, CN=SAP Cloud Root CA |6F:87:42:22:FA:EA:17:FD:8C:4A:4C:25:EF:26:F2:9F:BE:00:BF:45:82:C3:E1:FE:00:C2:F0:3D:BC:78:B2:81
-C=IE, O=Baltimore, OU=CyberTrust, CN=Baltimore CyberTrust Root |16:AF:57:A9:F6:76:B0:AB:12:60:95:AA:5E:BA:DE:F2:2A:B3:11:19:D6:44:AC:95:CD:4B:93:DB:F3:F2:6A:EB
 C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA |43:48:A0:E9:44:4C:78:CB:26:5E:05:8D:5E:89:44:B4:D8:4F:96:62:BD:26:DB:25:7F:89:34:A4:43:C7:01:61
 C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2 |CB:3C:CB:B7:60:31:E5:E0:13:8F:8D:D3:9A:23:F9:DE:47:FF:C3:5E:43:C1:14:4C:EA:27:D4:6A:5A:B1:CB:5F
 C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3 |31:AD:66:48:F8:10:41:38:C7:38:F3:9E:A4:32:01:33:39:3E:3A:18:CC:02:29:6E:F9:7C:2A:C9:EF:67:31:D0

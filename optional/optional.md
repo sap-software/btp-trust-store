@@ -1,10 +1,9 @@
 Subject Name|SHA256 Fingerprint
 ------------|------------------
 C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46 |4F:A3:12:6D:8D:3A:11:D1:C4:85:5A:4F:80:7C:BA:D6:CF:91:9D:3A:5A:88:B0:3B:EA:2C:63:72:D9:3C:40:C9
-C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA |EB:D4:10:40:E4:BB:3E:C7:42:C9:E3:81:D3:1E:F2:A4:1A:48:B6:68:5C:96:E7:CE:F3:C1:DF:6C:D4:33:1C:99
 C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 1 G3 |8A:86:6F:D1:B2:76:B5:7E:57:8E:92:1C:65:82:8A:2B:ED:58:E9:F2:F2:88:05:41:34:B7:F1:F4:BF:C9:CC:74
-C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 2 G3 |8F:E4:FB:0A:F9:3A:4D:0D:67:DB:0B:EB:B2:3E:37:C7:1B:F3:25:DC:BC:DD:24:0E:A0:4D:AF:58:B4:7E:18:40
 C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 2 |85:A0:DD:7D:D7:20:AD:B7:FF:05:F8:3D:54:2B:20:9D:C7:FF:45:28:F7:D6:77:B1:83:89:FE:A5:E5:C4:9E:86
+C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 2 G3 |8F:E4:FB:0A:F9:3A:4D:0D:67:DB:0B:EB:B2:3E:37:C7:1B:F3:25:DC:BC:DD:24:0E:A0:4D:AF:58:B4:7E:18:40
 C=CH, O=SwissSign AG, CN=SwissSign Gold CA - G2 |62:DD:0B:E9:B9:F5:0A:16:3E:A0:F8:E7:5C:05:3B:1E:CA:57:EA:55:C8:68:8F:64:7C:68:81:F2:C8:35:7B:95
 C=CH, O=SwissSign AG, CN=SwissSign Platinum CA - G2 |3B:22:2E:56:67:11:E9:92:30:0D:C0:B1:5A:B9:47:3D:AF:DE:F8:C8:4D:0C:EF:7D:33:17:B4:C1:82:1D:14:36
 C=CH, O=SwissSign AG, CN=SwissSign Silver CA - G2 |BE:6C:4D:A2:BB:B9:BA:59:B6:F3:93:97:68:37:42:46:C3:C0:05:99:3F:A9:8F:02:0D:1D:ED:BE:D4:8A:81:D5
@@ -18,11 +17,10 @@ C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46 |7B:B6
 C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO Certification Authority |1A:0D:20:44:5D:E5:BA:18:62:D1:9E:F8:80:85:8C:BC:E5:01:02:B3:6E:8F:0A:04:0C:3C:69:E7:45:22:FE:6E
 C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO ECC Certification Authority |17:93:92:7A:06:14:54:97:89:AD:CE:2F:8F:34:F7:F0:B6:6D:0F:3A:E3:A3:B8:4D:21:EC:15:DB:BA:4F:AD:C7
 C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Certification Authority |52:F0:E1:C4:E5:8E:C6:29:29:1B:60:31:7F:07:46:71:B8:5D:7E:A8:0D:5B:07:27:34:63:53:4B:32:B4:02:34
-C=IE, O=Baltimore, OU=CyberTrust, CN=Baltimore CyberTrust Root |16:AF:57:A9:F6:76:B0:AB:12:60:95:AA:5E:BA:DE:F2:2A:B3:11:19:D6:44:AC:95:CD:4B:93:DB:F3:F2:6A:EB
 C=JP, O=SECOM Trust Systems CO.,LTD., OU=Security Communication RootCA2 |51:3B:2C:EC:B8:10:D4:CD:E5:DD:85:39:1A:DF:C6:C2:DD:60:D8:7B:B7:36:D2:B5:21:48:4A:A4:7A:0E:BE:F6
 C=PL, O=Asseco Data Systems S.A., OU=Certum Certification Authority, CN=Certum Trusted Root CA |FE:76:96:57:38:55:77:3E:37:A9:5E:7A:D4:D9:CC:96:C3:01:57:C1:5D:31:76:5B:A9:B1:57:04:E1:AE:78:FD
-C=PL, O=Unizeto Sp. z o.o., CN=Certum CA |D8:E0:FE:BC:1D:B2:E3:8D:00:94:0F:37:D2:7D:41:34:4D:99:3E:73:4B:99:D5:65:6D:97:78:D4:D8:14:36:24
 C=RO, O=certSIGN, OU=certSIGN ROOT CA |EA:A9:62:C4:FA:4A:6B:AF:EB:E4:15:19:6D:35:1C:CD:88:8D:4F:53:F3:FA:8A:E6:D7:C4:66:A9:4E:60:42:BB
+C=SE, O=Telia Company AB, CN=Telia RSA TLS Root CA v3 |D1:3D:B1:29:4C:45:EB:C6:FC:86:C6:BB:F6:9F:A2:9B:DF:E6:92:DF:F7:C7:13:C2:43:C7:A9:56:C6:A2:28:4C
 C=SI, O=Republika Slovenija, organizationIdentifier=VATSI-17659957, CN=SI-TRUST Root |FA:D5:40:81:1A:FA:E0:DC:76:7C:DF:65:72:A0:88:FA:3C:E8:49:3D:D8:2B:3B:86:9A:67:D1:0A:AB:4E:81:24
 C=US, O=Amazon, CN=Amazon Root CA 1 |8E:CD:E6:88:4F:3D:87:B1:12:5B:A3:1A:C3:FC:B1:3D:70:16:DE:7F:57:CC:90:4F:E1:CB:97:C6:AE:98:19:6E
 C=US, O=Amazon, CN=Amazon Root CA 2 |1B:A5:B2:AA:8C:65:40:1A:82:96:01:18:F8:0B:EC:4F:62:30:4D:83:CE:C4:71:3A:19:C3:9C:01:1E:A4:6D:B4
@@ -51,9 +49,8 @@ C=US, O=Internet Security Research Group, CN=ISRG Root X1 |96:BC:EC:06:26:49:76:
 C=US, O=Internet Security Research Group, CN=ISRG Root X2 |69:72:9B:8E:15:A8:6E:FC:17:7A:57:AF:B7:17:1D:FC:64:AD:D2:8C:2F:CA:8C:F1:50:7E:34:45:3C:CB:14:70
 C=US, O=Microsoft Corporation, CN=Microsoft ECC Root Certificate Authority 2017 |35:8D:F3:9D:76:4A:F9:E1:B7:66:E9:C9:72:DF:35:2E:E1:5C:FA:C2:27:AF:6A:D1:D7:0E:8E:4A:6E:DC:BA:02
 C=US, O=Microsoft Corporation, CN=Microsoft RSA Root Certificate Authority 2017 |C7:41:F7:0F:4B:2A:8D:88:BF:2E:71:C1:41:22:EF:53:EF:10:EB:A0:CF:A5:E6:4C:FA:20:F4:18:85:30:73:E0
+C=US, O=SSL Corporation, CN=SSL.com TLS ECC Root CA 2022 |C3:2F:FD:9F:46:F9:36:D1:6C:36:73:99:09:59:43:4B:9A:D6:0A:AF:BB:9E:7C:F3:36:54:F1:44:CC:1B:A1:43
 C=US, O=SSL Corporation, CN=SSL.com TLS RSA Root CA 2022 |8F:AF:7D:2E:2C:B4:70:9B:B8:E0:B3:36:66:BF:75:A5:DD:45:B5:DE:48:0F:8E:A8:D4:BF:E6:BE:BC:17:F2:ED
-C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority |14:65:FA:20:53:97:B8:76:FA:A6:F0:A9:95:8E:55:90:E4:0F:CC:7F:AA:4F:B7:C2:C8:67:75:21:FB:5F:B6:58
-C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority |C3:84:6B:F2:4B:9E:93:CA:64:27:4C:0E:C6:7C:1E:CC:5E:02:4F:FC:AC:D2:D7:40:19:35:0E:81:FE:54:6A:E4
 C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2 |45:14:0B:32:47:EB:9C:C8:C5:B4:F0:D7:B5:30:91:F7:32:92:08:9E:6E:5A:63:E2:74:9D:D3:AC:A9:19:8E:DA
 C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2 |56:8D:69:05:A2:C8:87:08:A4:B3:02:51:90:ED:CF:ED:B1:97:4A:60:6A:13:C6:E5:29:0F:CB:2A:E6:3E:DA:B5
 C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority |4F:F4:60:D5:4B:9C:86:DA:BF:BC:FC:57:12:E0:40:0D:2B:ED:3F:BC:4D:4F:BD:AA:86:E0:6A:DC:D2:A9:AD:7A
