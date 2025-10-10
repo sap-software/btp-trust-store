@@ -1,0 +1,40 @@
+name: Create Release 🚀
+
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - closed
+jobs:
+  release:
+    if: ${{ github.event.pull_request.merged }}
+    runs-on: [ ubuntu-latest ]
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository 📥
+        uses: actions/checkout@v4
+        with:
+          fetch-tags: true
+      - name: Set up Git 🛠️
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Get Current Version 🔍
+        id: get_version
+        run: |
+          echo "NEW_VERSION=$(cat VERSION)" >> $GITHUB_ENV
+      - name: Get Release Notes 📝
+        id: get_release_notes
+        run: |
+          echo "RELEASE_NOTES=release_notes/release_notes_$(cat VERSION | sed 's/\./_/g').md" >> $GITHUB_ENV
+      - name: Create Release 🚀
+        uses: softprops/action-gh-release@v1
+        with:
+          draft: false
+          prerelease: false
+          tag_name: ${{ env.NEW_VERSION }}
+          body_path: ${{ env.RELEASE_NOTES }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
